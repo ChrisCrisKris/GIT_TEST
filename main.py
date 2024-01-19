@@ -19,6 +19,7 @@ def display(text):
 if __name__ == '__main__':
     print_hi('PyCharm')
     print(0.1+0.1+0.1)
+	#j'ajoute un commenaire
     text1="salut c\'est bien,\tessai\nautre ligne"
     text2= "c:\\usr\\app\\test.py"
     display(text1)
