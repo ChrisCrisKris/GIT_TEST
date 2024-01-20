@@ -3,3 +3,5 @@ Salut, je suis nouveau sous GIT
 je viens de faire cette modif dans ma branch... est-ce que ca marche ?
 
 je vais merger.
+
+Je viens de m'inserrer ici.
