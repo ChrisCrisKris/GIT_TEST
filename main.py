@@ -24,5 +24,6 @@ if __name__ == '__main__':
     text2= "c:\\usr\\app\\test.py"
     display(text1)
     retour = display(text2)
+	print(retour)
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
